@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 217: expected statement.
+    config.allow_skipping = False
+                          ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Sun Nov  3 23:13:26 2024
